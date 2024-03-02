@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">StationaryShare</string>
+    <string name="editBox">example@gmail.com</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnReset">Reset</string>
+    <string name="desc">Enter your email address</string>
+    <string name="forgotTitle">Forgot Password</string>
+    <string name="prevoiusact">prevoiusact</string>
+    <string name="details">Details</string>
+    <string name="dnt_button">DONATE</string>
+    <string name="quantity_of_books">Quantity of Books</string>
+    <string name="quantity_of_items">Quantity of Items</string>
+    <string name="books">no. of books you have</string>
+    <string name="items">no. of items you have</string>
+    <string name="itemType">Type of Item</string>
+    <string name="state">State</string>
+    <string name="item">eg. shoes, clothes, school bags etc.</string>
+    <string name="bkState">eg. in good condition</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">Kelvin Kitonyo </string>
+    <string name="user_email">kitskelly38@gmail.com</string>
+    <string name="signup_image">User Image</string>
+    <string name="signup_firstname">First Name</string>
+    <string name="signup_lastname">Last Name</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_confirm">Confirm Password</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="loginRedirectText">Already a user? Login</string>
+    <string name="pass_photo">upload your passport photo</string>
+    <string name="bkgenre">genre</string>
+    <string name="genre">Genre</string>
+    <string name="donateButton">Donate</string>
+    <string name="detailsEditText">Details</string>
+    <string name="quantityEditText">Quantity</string>
+    <string name="bookNameEditText">Book Name</string>
+    <string name="announcements">announcements</string>
+    <string name="boxes">Boxes</string>
+    <string name="Books">books</string>
+    <string name="mattress">Mattress</string>
+    <string name="other">Others</string>
+    <string name="others"> StationaryShare Founded in 2024, it serves humanity irrespective of race, color, religion, gender or nationality. Our development programs focus on children welfare; health; and education. </string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="signupRedirectText">Not yet registered? Signup</string>
+    <string name="login_password">Password</string>
+    <string name="login_email">Email</string>
+    <string name="location">Choose a donation center</string>
+
+    <string-array name="locations">
+        <item>Select a location</item>
+        <item>Collection centre 1 </item>
+        <item>Collection centre 2</item>
+        <item>Collection centre 3</item>
+        <item>Collection centre 4</item>
+        <item>Collection centre 5</item>
+        <item>Collection centre 6</item>
+        <item>Collection centre 7</item>
+        <item>Collection centre 8</item>
+        <item>Collection centre 9</item>
+        <item>Collection centre q</item>
+        <item>Collection centre w</item>
+        <item>Collection centre r</item>
+    </string-array>
+</resources>
